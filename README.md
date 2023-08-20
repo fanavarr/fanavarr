@@ -22,3 +22,11 @@
   </a>
 </div>
 </hr>
+ 
+<h2 align="center">⚒️ Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,github,python,bash,linux,regex,jenkins,docker" /><br>
+</div>
+<br/>
+<hr/>
