@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working as **Security Engineer**
+ 🔭 I’m currently working as **Security Engineer, Detection and Response Role**
  
- 🌱 I’m currently learning **DevSecops**
+ 🌱 I’m currently learning **Digital Forensics**
  
  </div>
  
